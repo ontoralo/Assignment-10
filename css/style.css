@@ -1,0 +1,174 @@
+body{
+	background:url(../img/mainbackground.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.navi{
+	float: right;
+    text-align: right;
+    margin-top: 50px;
+}
+.head-cont{
+	text-align: center;
+	color: white;
+	padding: 100px 0px;
+}
+.head-cont p{
+	color: #2a5da3;
+}
+.coeluso{
+	color: #2a5da3;
+}
+.btn-cstm{
+	border-radius: 40px;
+	border-color: #2a5da3;
+	background-color: transparent;
+	color: white;
+	padding: 10px 25px;
+	font-size: 10px;
+
+}
+
+.secont-section{
+	background:url(../img/strem-back.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.strem-img {
+	width: 100%;
+}
+.strem-img:hover {
+	transform: scale(1.2);
+}
+
+.third-cont{
+	text-align: left;
+	color: white;
+	padding: 70px 0px;
+}
+.headphone img{
+	padding-top: 30px;
+	margin-left: -120px;
+}
+
+.forth-cont-phone{
+	transform: scale(1.4);
+	margin-top: -50px;
+}
+.forth-cont-one{
+	color: white;
+}
+.forth-cont-one p{
+	color: #66778e;
+	font-size: 14px;
+}
+.forth-cont-one i{
+	color: #ff3334;
+	font-size: 35px;
+}
+
+
+
+
+.six-section{
+	position: relative;
+}
+
+
+.prespective{
+	padding-top: 30px;
+	position: absolute;
+	right: -15px;
+	top: 0px;
+}
+
+.six-cont-one{
+	padding-top: 120px;
+	padding-bottom: 200px;
+	color: white;
+}
+.six-cont-one h5{
+	color: white;
+	font-size: 26px;
+}
+.six-cont-one p{
+	color: #66778e;
+	font-size: 16px;
+}
+.six-cont-one i{
+	color: #ff3334;
+	font-size: 35px;
+}
+
+
+
+.seven-section{
+	background:url(../img/openions.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 10px 0px;
+}
+
+.carousel-item{
+    text-align: center;
+    min-height: 200px;
+    padding:10%;
+    color: white; /* Prevent carousel from being distorted if for some reason image doesn't load */
+}
+.car-pep-ic{
+	font-size: 40px;
+	padding-top: 30px;
+	padding-left: 10px: 	
+}
+.car-peop-des{
+	font-size: 14px;
+	color: #213a61;
+	font-weight: 700;
+}
+.carousel-indicators li{
+	width: 10px;
+    height: 10px;
+    border-radius: 5px;
+}
+
+.down-cont{
+	text-align: center;
+	color: white;
+	padding: 70px 0px;
+}
+ 
+
+ .btn-cstm-two{
+	border-radius: 40px;
+	border-color: #2a5da3;
+	background-color: transparent;
+	color: white;
+	padding: 10px 25px;
+	font-size: 10px;
+
+}
+.foot-sp span{
+	display: block;
+	border-bottom: 1px solid;
+	border-color: #12233f;
+	padding-bottom: 20px;
+}
+
+.foot-left li{
+	list-style: none;
+	display: inline;
+	padding:40px 5px;
+	color: #14396a;	
+	font-size: 14px;
+	font-weight: 700;
+}
+.foot-right{
+	color: #14396a;	
+	text-align: right;
+	font-size: 14px;
+	font-weight: 700;
+}
+
+
+
+	
